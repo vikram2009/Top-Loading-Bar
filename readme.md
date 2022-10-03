@@ -65,6 +65,8 @@ const App = () => {
 export default App
 ```
 
+Nextjs and Reactjs recommended frameworks
+
 
 
 
