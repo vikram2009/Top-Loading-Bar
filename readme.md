@@ -13,8 +13,8 @@ yarn add top-loading-bar
 ```
 How to use this :-
 
-demo repo :- https://github.com/vikram2009/top-loading-bar_demo 
-demo website :- https://top-loading-bar-demo.vercel.app/
+- demo repo :- https://github.com/vikram2009/top-loading-bar_demo 
+- demo website :- https://top-loading-bar-demo.vercel.app/
 
 
 With ref :-
@@ -59,7 +59,8 @@ const App = () => {
         onLoaderFinished={() => setProgress(0)}
       />
       <button onClick={() => setProgress(progress + 10)}>Add 10%</button>
-      <button onClick={() => setProgress(progress + 20)}>Add 20%</button>
+      <button onClick={() => setProgress(progress + 60)}>Add 70%</button>
+      <button onClick={() => setProgress(progress + 20)}>Add 90%</button>
       <button onClick={() => setProgress(100)}>Complete</button>
       <br />
     </div>
