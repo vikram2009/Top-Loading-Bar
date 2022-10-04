@@ -70,7 +70,7 @@ const App = () => {
 export default App
 ```
 
-Nextjs and Reactjs recommended frameworks
+recommended frameworks are Nextjs and Reactjs
 
 
 
