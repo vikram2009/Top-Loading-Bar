@@ -13,6 +13,10 @@ yarn add top-loading-bar
 ```
 How to use this :-
 
+demo repo :- https://github.com/vikram2009/top-loading-bar_demo 
+demo website :- https://top-loading-bar-demo.vercel.app/
+
+
 With ref :-
 ```jsx
 import React, { useRef } from 'react'
