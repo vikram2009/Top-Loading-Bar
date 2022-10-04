@@ -2,6 +2,12 @@
 
 <a href="https://www.producthunt.com/posts/top-loading-bar?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-top&#0045;loading&#0045;bar" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=361998&theme=dark" alt="Top&#0032;Loading&#0032;Bar - reactjs | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+Support :- 
+- email : vikramksm@hotmail.com 
+- website: https://vikramsrinivas.me
+- Fell free to open PR and Issues
+           
+
 Using npm :-
 ```bash
 npm i top-loading-bar
