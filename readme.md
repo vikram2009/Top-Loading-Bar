@@ -16,7 +16,7 @@ How to use this :-
 With ref :-
 ```jsx
 import React, { useRef } from 'react'
-import LoadingBar from 'react-top-loading-bar'
+import LoadingBar from 'top-loading-bar/dist'
 
 const App = () => {
   const ref = useRef(null)
@@ -42,7 +42,7 @@ export default App
 With state :-
 ```jsx
 import React, { useState } from 'react'
-import LoadingBar from 'react-top-loading-bar'
+import LoadingBar from 'top-loading-bar/dist'
 
 const App = () => {
   const [progress, setProgress] = useState(0)
